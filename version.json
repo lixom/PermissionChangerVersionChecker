@@ -1,1 +1,1 @@
-{"latest_version" : 1.1, "minimum_version" : 1.1, "windows": {"latest_version" : 1.2, "minimum_version": 1.2}, "mac": {"latest_version" : 1.2, "minimum_version": 1.2}}
+{"latest_version" : 1.1, "minimum_version" : 1.1, "windows": {"latest_version" : 1.2, "minimum_version": 1.2}, "darwin": {"latest_version" : 1.2, "minimum_version": 1.2}}
